@@ -54,7 +54,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/allulai/EvaMaria/tree/master">
+<a href="https://heroku.com/deploy?template=https://https://github.com/allulai/EvaMaria">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -63,7 +63,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clonehttps://github.com/allulai/EvaMaria
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
