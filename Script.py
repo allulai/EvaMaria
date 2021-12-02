@@ -5,14 +5,14 @@ class script(object):
     HELP_TXT = """🙋🏽‍♀️ʜᴇʏ {}
 ʜᴇʀᴇ ɪꜱ ʜᴇʟᴘ ꜰᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ."""
     ABOUT_TXT = """🤖 ʙᴏᴛ ɴᴀᴍᴇ: {}
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/SaeByeokTG>ꜱᴀᴇ ʙʏᴇᴏᴋ</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/ZendayaTG>ᴢᴇɴᴅᴀʏᴀ</a>
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ: ᴘʏʀᴏɢʀᴀᴍ
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ
 📡 ʜᴏsᴛᴇᴅ ᴏɴ: ʜᴇʀᴏᴋᴜ
 💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/nokiyirunnoippokitum>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
     SOURCE_TXT = """💡sᴏᴜʀᴄᴇ - <a href=https://t.me/nokiyirunnoippokitum>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 <b>ᴅᴇᴠᴇʟᴏᴘᴇʀ:</b>
-- <a href=https://t.me/SaeByeokTG>ꜱᴀᴇ ʙʏᴇᴏᴋ</a>"""
+- <a href=https://t.me/ZendayaTG>ᴢᴇɴᴅᴀʏᴀ</a>"""
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴛʜᴇ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ᴢᴇɴᴅᴀʏᴀ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -94,9 +94,9 @@ class script(object):
 
 👥 ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
 
-⚙️ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code> MB
+⚙️ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code>
 
-🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code> MB"""
+🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code>"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
