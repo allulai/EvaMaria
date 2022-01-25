@@ -74,7 +74,7 @@ class script(object):
     ADMIN_TXT = """ʜᴇʟᴘ: <b>ᴀᴅᴍɪɴ ᴍᴏᴅꜱ</b>
 
 <b>ɴᴏᴛᴇ:</b>
-ᴛʜɪꜱ ᴍᴏᴅᴜʟᴇ ᴏɴʟʏ ᴡᴏʀᴋꜱ ꜰᴏʀ ᴍʏ ᴀᴅᴍɪɴꜱ
+ᴛʜɪꜱ ᴏɴʟʏ ᴡᴏʀᴋꜱ ꜰᴏʀ ᴍʏ ᴀᴅᴍɪɴꜱ
 
 <b>ᴄᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ ᴜꜱᴀɢᴇ:</b>
 • /logs - <code>to get the rescent errors</code>
